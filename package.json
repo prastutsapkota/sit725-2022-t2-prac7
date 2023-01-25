@@ -1,0 +1,31 @@
+{
+  "name": "sit725-2022-t2-prac5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prastutsapkota/sit725-2022-t2-prac5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prastutsapkota/sit725-2022-t2-prac5/issues"
+  },
+  "homepage": "https://github.com/prastutsapkota/sit725-2022-t2-prac5#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "http-post": "^0.1.1",
+    "http-proxy": "^1.18.1",
+    "jquery": "^3.6.1",
+    "mongodb": "^4.12.1",
+    "socket.io": "^4.5.4",
+    "socket.io-client": "^4.5.4"
+  }
+}
